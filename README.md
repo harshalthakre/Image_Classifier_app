@@ -18,8 +18,8 @@ Steps to install the web App
 - Install requirements using pip
 - Run the script as follows with your OS 
 - If you are on Windows, the environment variable syntax depends on command line interpreter. On Command Prompt:
-   '''
+   ```
    C:\path\to\app>set Image_Classifier_app=app.py
    python -m flask run
    
-   '''
+   ```
