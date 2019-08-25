@@ -5,7 +5,7 @@
 Web Application Developed in Flask integrated with Keras for image classification.<br/> A web application to deploy your keras model with ease
 
 ---------------------------------------------------
-#Lets Get Started 
+## Lets Get Started 
 
 Prequisite :
 - Python 2.7 +
@@ -21,4 +21,13 @@ Steps to install the web App
    python -m flask run
    
    ```
+- Check http://localhost:5000
+- Done! :tada: Enjoy your app
+
+:point_down:Screenshot:
+
+<p align="center">
+  <img src="https://s18.postimg.cc/l01x6fn3d/demo1.png" width="600px" alt="">
+</p>
+
 
