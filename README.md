@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/python-2.7%2C%203.5%2B-green.svg)]()
 
-Web Application Developed in Flask integrated with Keras for image classification. \n A web application to deploy your keras model with ease
+Web Application Developed in Flask integrated with Keras for image classification.<br/> A web application to deploy your keras model with ease
 
 ---------------------------------------------------
 #Lets Get Started 
