@@ -9,7 +9,30 @@ Web Application Developed in Flask integrated with Keras for image classificatio
 
 Prequisite :
 - Python 2.7 +
-- Pip
+- pip
+
+libraries to install :
+- numpy
+- tensorflow
+- keras
+- gevent
+
+How to install Flask and Create an Enviornment :
+- Create a project folder and a venv folder within:
+```
+$ mkdir myproject
+$ cd myproject
+$ python -m venv venv
+```
+- Activate the environmnet
+```
+venv\Scripts\activate
+```
+Your shell prompt will change to show the name of the activated environment.
+- Install Flask
+```
+$ pip install Flask
+```
 
 Steps to install the web App
 - clone this repo
