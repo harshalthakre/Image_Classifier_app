@@ -10,8 +10,8 @@ A web application to deploy your keras model with ease
 #Lets Get Started 
 
 Prequisite :
--Python 2.7 +
--pip
+- Python 2.7 +
+- Pip
 
 Steps to install the web App
 - clone this repo
