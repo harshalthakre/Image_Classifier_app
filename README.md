@@ -53,4 +53,8 @@ Steps to install the web App
   <img src="https://i.postimg.cc/7YGFN2p9/demo.png" width="600px" alt="">
 </p>
 
+### Here is the workflow
 
+<p align="center">
+  <img src="https://i.postimg.cc/nrbvztVb/Untitled-document.png" width="600px" alt="">
+</p>
