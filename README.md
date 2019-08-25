@@ -27,7 +27,7 @@ Steps to install the web App
 :point_down:Screenshot:
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1nPgZuy-GZOMUY7pHGzJ2b6dB0vjVd7tN/view?usp=sharing" width="600px" alt="">
+  <img src="https://i.postimg.cc/7YGFN2p9/demo.png" width="600px" alt="">
 </p>
 
 
